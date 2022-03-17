@@ -1,3 +1,9 @@
+Setup
+=====
+Download or clone the project
+npm install
+npm start
+
 # Recipe-app-reactjs
 React Recipe App with all basic functionalities used
 
